@@ -1,3 +1,8 @@
+Para la ejecucion de la aplicacciòn de productos se deben implementar los siguintes pasos.
+
+para correr el servidor se debe iniciar, por medio de consola a traves del comando npm start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -63,6 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### `npm run build` fails to minifylllk
+
+
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
